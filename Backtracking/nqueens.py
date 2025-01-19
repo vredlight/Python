@@ -1,6 +1,7 @@
 '''
   # prints one of the possible solution of the nqueens problem
   #Trying
+  #New Try
   # in nqueens problem, we try to place n queens in n*n board such that no queen attack any other queen
 '''
 
